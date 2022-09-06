@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/asellers/splawn/syntropy_dev/projects/bbva_urs'
+let g:netrw_dirhist_8='/home/asellers/Documents/Space over Time/Space/.git'
+let g:netrw_dirhist_7='/home/asellers/splawn/syntropy_dev/config/bbva_rdc_client_internal'
+let g:netrw_dirhist_6='/home/asellers/splawn/syntropy_dev/projects/bbva_eap_api/server/integrations/docusign'
+let g:netrw_dirhist_5='/home/asellers/splawn/syntropy_dev/projects/bbva_eap_api/server/integrations'
+let g:netrw_dirhist_4='/home/asellers/splawn/syntropy_dev/projects/bbva_eap_api/server'
+let g:netrw_dirhist_3='/home/asellers/splawn/syntropy_dev/projects/bbva_eap_api'
+let g:netrw_dirhist_2='/home/asellers/splawn/syntropy_dev/config'
+let g:netrw_dirhist_1='/home/asellers/src/syntropygroup/bu/actions'
