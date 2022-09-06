@@ -135,13 +135,8 @@ csv_split() {
 
 export GOPATH=$HOME
 export PATH=$HOME/bin:$PATH:/usr/local/go/bin:$HOME/flutter/bin
-export AWS_ACCESS_KEY_ID=AKIAIFYN47UYZR7BXN5A
-export AWS_SECRET_ACCESS_KEY=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
-export AWS_DEFAULT_REGION=us-east-1
+source ~/.aws_creds
 
-alias aphudson="java -jar ~/bin/airplay.jar -h '192.168.86.110' -d"
-alias apoffice="java -jar ~/bin/airplay.jar -h '192.168.86.30' -d"
-alias apdavid="java -jar ~/bin/airplay.jar -h '192.168.86.30' -d"
 alias gc='git checkout'
 alias gp='git push -u'
 stty -ixon
